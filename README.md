@@ -1,2 +1,2 @@
 # grain-bank-mvn
-Software Engineering - homework task
+![example workflow](https://github.com/Oskshust/grain-bank-mvn/actions/workflows/ci.yml/badge.svg)
